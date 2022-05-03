@@ -18,8 +18,8 @@ bio: My research interests include Acoustic Logging, Nuerical Modelling, Formati
 
 # Interests to show in About widget
 interests:
-  - Fluid Flow in Porous Media and Fractures
   - Elastic Wave Propagation Modelling in Complex Media
+  - Fluid Flow in Porous Media and Fractures
   - Well Logging Interpretation
 
 # Education to show in About widget
@@ -28,11 +28,11 @@ education:
     - course: Ph.D in Petroleum Engineering
       institution: The University of Texas at Austin
       year: 2022
-    - course: M.Eng in Borehole Geophysics
-      institution: China University of Petroleum
+    - course: M.Eng in Geological Resrouces and Geological Engineering
+      institution: China University of Petroleum (East China)
       year: 2019
     - course: B.Eng in Exploration Technology and Engineering
-      institution: China Unversity of Petroleum
+      institution: China Unversity of Petroleum (East China)
       year: 2015
 
 # Social/Academic Networking
@@ -45,7 +45,7 @@ social:
     link: '/#contact'
   - icon: weixin
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://s2.loli.net/2022/05/03/O3dUif5PIFDexoj.jpg
   - icon: researchgate # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://www.researchgate.net/profile/Feiyue-Xia?ev=hdr_xprf
@@ -72,6 +72,6 @@ highlight_name: true
 
 Feiyue Xia is a Ph.D student of petroleum engineering at [UT austin](https://www.utexas.edu/) from August 2022, working with Professor [Carlos Torres-Verdin](https://pge.utexas.edu/facultystaff/faculty-directory/torres-verdin). Previously he did Master degree, majoring in Borehole Geophysics, at China University of Petroleum (East China), where he worked with Professor [Xiao-Ming Tang](https://www.researchgate.net/profile/Xiao-Ming-Tang-2). He got the B.E in Exploration Technology and Engineering from China University of Petroleum (East China).
 
-His research interest lies in.... research direction, Develop codes of Finite-difference algorithm. Awards..... Publications....
+His research interest lies in acoustic logging especially borehole geophysical numerical and analytical modelling. He is skilled in 3D or 2.5D FDTD ealstic wave modelling of complex media, such as elastic media, poro-elastic media and cracked porous elastic media. He used to be invited to join [IPTC Educational Week](https://www.iptcnet.org/19iptc/education-activities/education-week/) and also obtained [SPWLA Scholarship](https://www.spwla.org/SPWLA/Foundation/Grants_and_Scholarship_Recipients/SPWLA/Foundation/Grants_and_Scholarship_Recipients.aspx?hkey=9d374860-c03f-42eb-8108-c6d638f8a4ff) in 2019 when he was an undergraduate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
