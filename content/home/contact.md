@@ -34,9 +34,9 @@ content:
     postcode: '78712'
     country: United States
     country_code: US
-  coordinates:
-    latitude: '30.28495438229091' 
-    longitude: '-97.73405401994424'
+  # coordinates:
+  #  latitude: '30.28495438229091' 
+  #  longitude: '-97.73405401994424'
   # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
   # office_hours:
   #  - 'Monday 10:00 to 13:00'
