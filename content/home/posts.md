@@ -36,3 +36,4 @@ design:
   view: compact
   columns: '2'
 ---
+{{< gallery album="<assets\media\albums>" >}}
