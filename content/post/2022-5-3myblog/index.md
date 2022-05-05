@@ -48,7 +48,7 @@ categories:
 3. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
 
 {{< figure src="https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png" title="The template is mobile first with a responsive design to ensure that your site looks stunning on every device." >}}
-
+{{< gallery album="<albums>" resize_options="250x250" >}}
 ## Get Started
 
 - 👉 [**Create a new site**](https://wowchemy.com/templates/)
