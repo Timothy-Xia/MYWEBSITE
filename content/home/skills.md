@@ -1,7 +1,7 @@
 ---
 widget: blank
 headless: true
-
+active：false
 # ... Put Your Section Options Here (title etc.) ...
 title: Gallery
 subtitle:
@@ -10,4 +10,3 @@ design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '2'
 ---
-![screen reader text](2016-07-23.jpg "caption")
