@@ -10,4 +10,4 @@ design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '2'
 ---
-![screen reader text](2016-07023.jpg "caption")
+![screen reader text](2016-07-23.jpg "caption")
