@@ -10,5 +10,10 @@ design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '2'
 ---
-{{< figure src="2016-07-23.jpg" caption="A caption" numbered="true" >}}
-{{< icon name="terminal" pack="fas" >}} Terminal
+gallery_item:
+- album: <albums>
+  image: <2016-07-23>.jpg
+  caption: Write your image 1 caption here
+- album: <albums>
+  image: <2016-07-25>.jpg
+  caption: Write your image 2 caption here
