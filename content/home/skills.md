@@ -9,6 +9,6 @@ weight: 100  # section position on page
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '2'
-{{< gallery album="<20220505>">}}
 ---
+{{< figure src="2016-07-23.jpg" caption="A caption" numbered="true" >}}
 {{< icon name="terminal" pack="fas" >}} Terminal
