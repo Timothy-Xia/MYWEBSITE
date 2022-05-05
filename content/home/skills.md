@@ -10,7 +10,7 @@ design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '2'
 ---
-allery_item:
+gallery_item:
 - album: <ALBUM albums>
   image: <IMAGE 1 2016-07-23>.jpg
   caption: Write your image 1 caption here
