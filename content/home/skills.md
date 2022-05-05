@@ -10,5 +10,5 @@ design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '2'
 ---
-{{< gallery album="<albums>" >}} 
+{{< gallery album="<assets\media\albums\2016-04-30.jpg>" >}} 
 Add any content here - text, images, videos, galleries - and even HTML code!
