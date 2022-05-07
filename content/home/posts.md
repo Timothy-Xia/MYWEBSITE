@@ -34,7 +34,7 @@ content:
 design:
   # Choose a view for the listings:
   view: compact
-  columns: '1'
+  columns: '2'
    # For Showcase view, flip alternate rows?
   flip_alt_rows: true
 ---
