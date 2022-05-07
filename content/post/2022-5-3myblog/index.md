@@ -42,3 +42,4 @@ categories:
 ---
 
 ## Blank
+{{< gallery album="<albums>" >}}
