@@ -1,13 +1,14 @@
 ---
-title: 'A study of Stoneley wave reflection and transmission across a permeable porous formation 
-and fractures zone：Comparison of analytical and numerical modeling results'
+title: 'Finite element simulation and experiment study on exciting quasi-SH wave circumferentially in the casing'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+  - Xuelian Chen
+  - Yan Zhuang
   - **Feiyue Xia**
-  - Yuanda Su
+  - Xiaokang Yin
   - Xiaoming Tang
 
 # Author notes (optional)
@@ -16,7 +17,7 @@ author_notes:
   - 
 
 date: '2022-07-01T00:00:00Z'
-doi: ''
+doi: '10.6038/cjg2022P0257'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2022-05-01T00:00:00Z'
@@ -29,14 +30,14 @@ publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
 publication: In *Chinese Journal of Geophysics(in Chinese)*
-publication_short: In *Chinese Journal of Geophysics(in Chinese)*
+publication_short: In *Chinese J. Geophys. (in Chinese)*
 
-abstract: Borehole Stoneley waves are commonly used to evaluate reservoir permeability and identify formation fractures. The propagation of acoustic waves in permeable formations requires solving the Biot’s poro-elastic wave equations. The finite difference method is used to solve the problem of Stoneley wave reflection and transmission across permeable formations and fracture zones. In this article, the finite difference method and one-dimensional effective wavenumber method were collectively applied to study and analyze the Stoneley wave reflection and transmission coefficients and their variation characteristics with different thickness, permeability and porosity of porous formations. The results verify the reliability of the effective wavenumber method in the range of 0-2kHz. An advantage of the finite difference method is to solve the more complex fractures zone problem that is difficult for the wavenumber method, analyzing the Stoneley wave reflection and transmission coefficients for different permeability, porosity, and axial and radial extension length parameters. The main results of this paper show that the Stoneley-wave induced fluid flow in the zone is a skin effect having a limited depth of penetration. Thus, to measure the fluid flow effect beyond a radial depth of, say 0.1m, one should use a low-frequency band of 0-2kHz, in which both the Stoneley wave reflection and transmission coefficients are sensitive to the fluid transport property of the zone in the borehole vicinity. In general, the Stoneley-wave reflection coefficient increases significantly at low frequencies, and the transmission coefficient decreases with increasing frequency. However, when the wave frequency is close to Biot characteristic frequency, the reflection and transmission coefficient show complicated variation trend with increasing frequency and permeability, due to dynamic fluid flow characteristics in the fracture zone. The methods and results in this paper are helpful to analyze and evaluate the propagation characteristics of Stoneley waves in fractured permeable formations.
+abstract: For acoustic logging methods in a cased well, the conventional working pattern is that the acoustic wave is excited in the mud and radiates into the casing, and then the casing wave is induced. This way is not eficient in heavy weight or gassy mud. This paper introduces the electromagnetic acoustic transducer (EMAT) based on Lorentz force mechanism into the cased well. The advantages of EMAT are that the quasi-SH waves can be induced in the casing directly without acoustic coupling between mud and casing. The quasi-SH waves are polarized in the axial direction and propagates circumferentially. Combining the COMSOL finite element simulation the Lorentz force type electromagnetic ultrasonic transducers are designed and optimized. Quasi SH0 and higher modes can be excited in the casing. The electromagnetic ultrasonic transducers based on the simulation results recorded the SH waves propagating circumferentially along the casing in the laboratory. In a well-bonded well, quasi-SH waves propagate along the casing circumferentially and leak energy into the cement behind the casing, and the leak quasi-SH waves can be reflected at the interface between cement and formation. Then the reflected waves can be coupled into the casing and received by the receivers. In hard and soft formation cased well models, the reflected waves are in opposite phases. Comparing with direct waves, the phase changes of reflected waves fully verify the propagation characteristics of quasi-SH waves.
 
 # Summary. An optional shortened abstract.
 summary: none.
 
-tags: [Stoneley waves]
+tags: []
 
 # Display this page in the Featured widget?
 featured: true
@@ -46,7 +47,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'publication-1.pdf'
+url_pdf: 'publication-2.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

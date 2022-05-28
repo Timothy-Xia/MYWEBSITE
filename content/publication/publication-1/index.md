@@ -1,6 +1,6 @@
 ---
-title: 'A study of Stoneley wave reflection and transmission across a permeable porous formation 
-and fractures zone：Comparison of analytical and numerical modeling results'
+title: 'Stoneley wave reflection and transmission across permeable formations 
+and fractured zones：Comparison of analytical and numerical modeling results'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
