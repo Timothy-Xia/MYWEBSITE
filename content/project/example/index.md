@@ -1,22 +1,24 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: My Master's Research
+summary: Study on Forward Modeling of acoustic logging in the cracked porous formation.
 tags:
-  - Deep Learning
-date: '2016-04-27T00:00:00Z'
+  - 2.5D FDTD algorithm
+  - cracked porous media
+  - Stoneley waves
+date: '2022-05-28T01:28:27.467Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: ''
+external_link: 'https://www.researchgate.net/profile/Feiyue-Xia?ev=hdr_xprf'
 
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
 links:
-  - icon: twitter
-    icon_pack: fab
+  - icon: researchgate
+    icon_pack: ai
     name: Follow
-    url: https://twitter.com/georgecushen
+    url: https://www.researchgate.net/profile/Feiyue-Xia?ev=hdr_xprf
 url_code: ''
 url_pdf: ''
 url_slides: ''
