@@ -8,7 +8,7 @@ tags:
 date: '2022-05-28T01:28:27.467Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: 'https://www.researchgate.net/profile/Feiyue-Xia?ev=hdr_xprf'
+external_link: ''
 
 image:
   caption: Photo by rawpixel on Unsplash
