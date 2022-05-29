@@ -47,7 +47,7 @@ social:
     icon_pack: fab
     link: https://s2.loli.net/2022/05/03/O3dUif5PIFDexoj.jpg
   - icon: researchgate # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: ai
+    icon_pack: fab
     link: https://www.researchgate.net/profile/Feiyue-Xia?ev=hdr_xprf
   - icon: github
     icon_pack: fab
