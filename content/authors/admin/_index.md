@@ -52,9 +52,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/Timothy-Xia
- - icon: researchgate
-   icon_pack: ai
-   link: https://www.researchgate.net/profile/Feiyue-Xia?ev=hdr_xprf
+# - icon: researchgate
+#   icon_pack: ai
+#   link: https://www.researchgate.net/profile/Feiyue-Xia?ev=hdr_xprf
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
