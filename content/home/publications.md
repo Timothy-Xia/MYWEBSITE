@@ -31,10 +31,7 @@ content:
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
 design:
-  # Choose a view for the listings:
+  # Choose a view for the listings: {{% callout note %}} Quickly discover relevant content by [filtering publications](./publication/). {{% /callout %}}
   view: citation
   columns: '2'
 ---
-# {{% callout note %}}
-# Quickly discover relevant content by [filtering publications](./publication/).
-# {{% /callout %}}
