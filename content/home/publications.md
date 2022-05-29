@@ -33,5 +33,5 @@ content:
 design:
   # Choose a view for the listings: {{% callout note %}} Quickly discover relevant content by [filtering publications](./publication/). {{% /callout %}}
   view: citation
-  columns: '2'
+  columns: '1'
 ---
