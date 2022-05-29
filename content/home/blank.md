@@ -10,5 +10,7 @@ design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
 ---
-Add any content here - text, images, videos, galleries - and even HTML code!
 {{< figure src="2016-07-23.jpg" caption="A caption" numbered="true" >}}
+{{< icon name="terminal" pack="fas" >}} Terminal  
+{{< icon name="python" pack="fab" >}} Python  
+{{< icon name="r-project" pack="fab" >}} R
