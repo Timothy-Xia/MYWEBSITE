@@ -11,4 +11,4 @@ design:
   columns: '2'
 ---
 {{< figure src="2016-07-23.jpg" resize_options="250x250" >}}
-{{< gallery album="<media>" resize_options="250x250" >}}
+{{< gallery album="<albums>" >}}
