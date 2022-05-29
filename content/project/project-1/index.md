@@ -1,5 +1,5 @@
 ---
-title: My Master's Research
+title: My Master's Research Work
 summary: Study on Forward Modeling of acoustic logging in the cracked porous formation.
 tags:
   - 2.5D FDTD algorithm
