@@ -10,5 +10,4 @@ design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '2'
 ---
-{{< figure src="2016-07-23.jpg" Resize="250x" >}}
-{{< figure src="2016-07-25.jpg" Resize="250x" >}}
+{{< figure src="2016-07-23.jpg">}}
