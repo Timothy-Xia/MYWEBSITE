@@ -11,3 +11,4 @@ design:
   columns: '1'
 ---
 Add any content here - text, images, videos, galleries - and even HTML code!
+{{< figure src="2016-07-23.jpg" caption="A caption" numbered="true" >}}
