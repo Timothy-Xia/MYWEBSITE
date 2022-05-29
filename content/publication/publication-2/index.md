@@ -7,7 +7,7 @@ title: 'Finite element simulation and experiment study on exciting quasi-SH wave
 authors:
   - Xuelian Chen
   - Yan Zhuang
-  - Feiyue Xia
+  - admin
   - Xiaokang Yin
   - Xiaoming Tang
 
