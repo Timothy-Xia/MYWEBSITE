@@ -11,3 +11,10 @@ design:
   columns: '2'
 ---
 {{< figure src="2016-07-23.jpg" resize_options="250x250" >}}
+gallery_item:
+- album: <media>
+  image: <2016-07-23>.jpg
+  caption: Write your image 1 caption here
+- album: <media>
+  image: <2016-07-25>.jpg
+  caption: Write your image 2 caption here
